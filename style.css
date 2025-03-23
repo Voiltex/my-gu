@@ -1,0 +1,32 @@
+body {
+    font-size: 15pt;
+    background-image: url("/Bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+  font-style: italic;
+  position: absolute;
+  top : 10%;
+  right : 37%;}
+div{
+  transform: scale(2);
+  position: absolute;
+  top: 50%;
+  left: 30%;
+}
+.Nut{
+  position: absolute;
+  top: 80%;
+  left: 40%;
+  transform: scale(3);
+  border-radius: 5px;
+  position: fixed;
+  
+}
+html {
+  min-height: 100px;
+  max-height: 2px;
+}
