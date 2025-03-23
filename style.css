@@ -1,6 +1,6 @@
 body {
-    font-size: 15pt;
-    background-image: url("/Bg.jpg");
+    font-size: 15px;
+    background-image: url("Bg.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
